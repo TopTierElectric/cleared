@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Project Gallery | Top Tier Electrical</title>
+<meta name="description" content="Real project photography from Top Tier Electrical across West Michigan: panel upgrades, lighting, control work, EV charging, and finish-conscious electrical upgrades.">
+<link rel="canonical" href="https://toptier-electrical.com/gallery">
+<meta name="robots" content="index,follow">
+<meta property="og:site_name" content="Top Tier Electrical">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Project Gallery | Top Tier Electrical">
+<meta property="og:description" content="Real project photography from Top Tier Electrical across West Michigan: panel upgrades, lighting, control work, EV charging, and finish-conscious electrical upgrades.">
+<meta property="og:url" content="https://toptier-electrical.com/gallery">
+<meta property="og:image" content="https://toptier-electrical.com/Past_work_webp/TopTierElectrical_OpenGraph_1200x630.webp">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Top Tier Electrical — Electrician in West Michigan">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Project Gallery | Top Tier Electrical">
+<meta name="twitter:description" content="Real project photography from Top Tier Electrical across West Michigan: panel upgrades, lighting, control work, EV charging, and finish-conscious electrical upgrades.">
+<meta name="twitter:image" content="https://toptier-electrical.com/Past_work_webp/TopTierElectrical_OpenGraph_1200x630.webp">
+<meta name="twitter:image:alt" content="Top Tier Electrical — Electrician in West Michigan">
+<link rel="stylesheet" href="/assets/css/styles.css?v=1773019200545">
+<script defer src="/assets/js/site.js?v=1773019200545"></script>
+  </head>
+  <body
+    data-page-type="gallery"
+    data-service="none"
+    data-city="none"
+  >
+    <div class="page-progress" aria-hidden="true">
+      <span class="page-progress-bar"></span>
+    </div>
+    <a class="skip-link" href="#main">Skip to main content</a>
+    <header class="site-header" role="banner">
+  <div class="topbar">
+    <div class="container topbar-inner">
+      <p class="topbar-copy">
+        Owner-operated electrical contracting for premium residential and light
+        commercial work across West Michigan.
+      </p>
+      <div class="topbar-meta">
+        <span>Licensed &amp; insured</span>
+        <span>MI License #6220430</span>
+      </div>
+    </div>
+  </div>
+  <div class="container header-inner">
+    <a class="logo" href="/" aria-label="Top Tier Electrical Home">
+      <img
+        class="logo-img"
+        src="/Past_work_webp/TopTierElectrical_Logo_Web_600w.webp"
+        width="600"
+        height="161"
+        alt="Top Tier Electrical"
+        decoding="async"
+        loading="eager"
+      />
+      <span class="logo-lockup">
+        <span class="logo-text">Top Tier Electrical</span>
+        <span class="logo-subtitle"
+          >Premium residential &amp; light commercial electrical</span
+        >
+      </span>
+    </a>
+    <button
+      class="menu-toggle"
+      type="button"
+      aria-controls="primary-nav"
+      aria-expanded="false"
+    >
+      <span class="sr-only">Open menu</span>
+      <span aria-hidden="true">☰</span>
+    </button>
+    <nav id="primary-nav" class="nav" aria-label="Primary Navigation">
+      <a href="/services">Services</a>
+<a href="/service-areas">Service Areas</a>
+<a href="/gallery">Gallery</a>
+<a href="/case-studies">Case Studies</a>
+<a href="/blog">Blog</a>
+<a href="/faq">FAQ</a>
+<a href="/about">About</a>
+<a href="/contact">Contact</a>
+    </nav>
+    <div class="header-cta">
+      <a
+        class="btn btn-primary"
+        href="/booking"
+        data-cta="booking"
+        data-cta-location="header"
+        >Request Scheduling</a
+      >
+      <a
+        class="btn btn-ghost"
+        href="tel:+16163347159"
+        data-cta="call"
+        data-cta-location="header"
+        >Call / Text</a
+      >
+    </div>
+  </div>
+</header>
+
+    <main id="main" class="site-main">
+      <nav class="breadcrumbs" aria-label="Breadcrumb"><ol><li><a href="/">Home</a></li><li aria-current="page">Gallery</li></ol></nav><figure class="page-hero"><div class="page-hero__media"><img src="/Past_work_webp/Exterior%20Light%20Fixtures.webp" width="2048" height="1536" alt="Exterior lighting upgrade installed by a licensed electrician" decoding="async" loading="eager" fetchpriority="high"></div></figure><section class="container hero">
+  <span class="eyebrow">Gallery</span>
+  <h1>
+    Real projects, real field conditions, and the finish quality clients usually
+    want to see first.
+  </h1>
+  <p>
+    This gallery is meant to do more than prove the work exists. It shows
+    organization, labeling, routing, fixture finish, and the kind of spaces Top
+    Tier Electrical works in most often.
+  </p>
+</section>
+
+<section class="section-shell section-shell--contrast">
+  <div class="container">
+    <div class="section-lead">
+      <span class="eyebrow">Want more than photos?</span>
+      <h2>See the story behind the work.</h2>
+      <p>
+        Case studies add context: scope, constraints, and why the finished
+        result is easier to trust and service later.
+      </p>
+    </div>
+    <p><a class="btn btn-primary" href="/case-studies">View case studies</a></p>
+  </div>
+</section>
+
+<section class="container section-stack">
+  <div class="case-study-grid">
+    <article class="case-study">
+      <figure>
+        <img
+          src="/Past_work_webp/Panel%20Work.webp"
+          width="2048"
+          height="1536"
+          alt="Electrical panel upgrade with organized breakers and labeling"
+          loading="eager"
+          fetchpriority="high"
+          decoding="async"
+        />
+      </figure>
+      <h3>Panel modernization for future capacity</h3>
+      <p>
+        Upgrade focused on capacity, cleaner breaker layout, and a panel
+        directory that makes future service calls faster.
+      </p>
+      <ul class="checklist checklist--compact">
+        <li>Cleaner labeling and circuit organization</li>
+        <li>Room for EV charging, remodel loads, or equipment additions</li>
+        <li>
+          Finished result built for serviceability, not just inspection minimums
+        </li>
+      </ul>
+    </article>
+    <article class="case-study">
+      <figure>
+        <img
+          src="/Past_work_webp/Exterior%20Light%20Fixtures.webp"
+          width="2048"
+          height="1536"
+          alt="Exterior light fixtures installed neatly on a home"
+          loading="lazy"
+          decoding="async"
+        />
+      </figure>
+      <h3>Lighting work that supports the look of the property</h3>
+      <p>
+        Fixture and lighting upgrades where placement, finish quality, and
+        alignment matter as much as the power itself.
+      </p>
+      <ul class="checklist checklist--compact">
+        <li>Better curb appeal and usability</li>
+        <li>Cleaner final fixture placement</li>
+        <li>Useful for remodels, entries, patios, and whole-home refreshes</li>
+      </ul>
+    </article>
+    <article class="case-study">
+      <figure>
+        <img
+          src="/Past_work_webp/Control%20Cabinet.webp"
+          width="1536"
+          height="2048"
+          alt="Organized control cabinet wiring in a commercial environment"
+          loading="lazy"
+          decoding="async"
+        />
+      </figure>
+      <h3>Control and conduit work in active facilities</h3>
+      <p>
+        Organized commercial work where readable terminations, routing clarity,
+        and long-term maintainability matter.
+      </p>
+      <ul class="checklist checklist--compact">
+        <li>Useful in shops, mixed-use, and light industrial settings</li>
+        <li>Supports troubleshooting and future changes</li>
+        <li>Built for the next service visit too</li>
+      </ul>
+    </article>
+  </div>
+</section>
+
+<section class="container section-stack">
+  <div class="section-lead">
+    <span class="eyebrow">Selected project examples</span>
+    <h2>More examples from the field.</h2>
+  </div>
+  <div class="image-grid" aria-label="Recent electrical projects gallery">
+    <figure class="image-card">
+      <img
+        src="/Past_work_webp/IMG_1380.webp"
+        width="2048"
+        height="1536"
+        alt="Electrician working inside an electrical panel"
+        loading="lazy"
+        decoding="async"
+      />
+      <figcaption>
+        Panel detail work with organized layout and service-friendly labeling.
+      </figcaption>
+    </figure>
+    <figure class="image-card">
+      <img
+        src="/Past_work_webp/Residential%20Wiring.webp"
+        width="2048"
+        height="1536"
+        alt="Residential wiring rough-in"
+        loading="lazy"
+        decoding="async"
+      />
+      <figcaption>
+        Residential wiring prepared for a cleaner finish and more reliable
+        future access.
+      </figcaption>
+    </figure>
+    <figure class="image-card">
+      <img
+        src="/Past_work_webp/Control%20Cabinet.webp"
+        width="1536"
+        height="2048"
+        alt="Commercial control cabinet wiring"
+        loading="lazy"
+        decoding="async"
+      />
+      <figcaption>
+        Commercial cabinet organization focused on readability and long-term
+        maintenance.
+      </figcaption>
+    </figure>
+    <figure class="image-card">
+      <img
+        src="/Past_work_webp/Exterior%20Light%20Fixtures.webp"
+        width="2048"
+        height="1536"
+        alt="Exterior light fixtures installed on a home"
+        loading="lazy"
+        decoding="async"
+      />
+      <figcaption>
+        Exterior fixtures that improve both safety and the way the property
+        presents.
+      </figcaption>
+    </figure>
+    <figure class="image-card">
+      <img
+        src="/Past_work_webp/Panel%20Work.webp"
+        width="2048"
+        height="1536"
+        alt="Panel upgrade completed for a home"
+        loading="lazy"
+        decoding="async"
+      />
+      <figcaption>
+        Panel upgrade prepared for present demand and future electrical
+        additions.
+      </figcaption>
+    </figure>
+    <figure class="image-card">
+      <img
+        src="/Past_work_webp/IMG_1380.webp"
+        width="2048"
+        height="1536"
+        alt="EV charger installation in a garage"
+        loading="lazy"
+        decoding="async"
+      />
+      <figcaption>
+        EV charging setup with dedicated-circuit planning and practical
+        day-to-day placement.
+      </figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="container section-stack">
+  <div class="feature-band">
+    <div class="two-col">
+      <div>
+        <span class="eyebrow">Next step</span>
+        <h2>Seen enough to know the fit?</h2>
+        <p>
+          Share the project type, city, and any photos available. That usually
+          makes the first response faster and more useful.
+        </p>
+      </div>
+      <div class="cta-panel">
+        <a class="btn btn-primary" href="/booking">Request scheduling</a>
+        <a class="btn btn-ghost" href="/contact">Ask a project question</a>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section-shell">
+  <div class="container">
+    <div class="info-card"><section class="cta-block">
+  <h2>Request Scheduling</h2>
+  <p>
+    Tell us what you're planning. We'll confirm scope, timeline, and next steps.
+  </p>
+  <div class="cta-row">
+    <a
+      class="btn btn-primary"
+      href="/booking"
+      data-cta="booking"
+      data-cta-location="inline"
+      >Request Scheduling</a
+    ><a
+      class="btn btn-ghost"
+      href="tel:+16163347159"
+      data-cta="call"
+      data-cta-location="inline"
+      >Call / Text</a
+    >
+  </div>
+</section>
+</div>
+  </div>
+</section>
+
+    </main>
+    <footer class="site-footer" role="contentinfo">
+  <div class="container footer-cta-shell">
+    <div>
+      <span class="eyebrow">Ready to move forward?</span>
+      <h2>Get a direct answer on scope, timing, and the smartest next step.</h2>
+      <p>
+        Top Tier Electrical works best for homeowners, builders, and operators
+        who want clear communication, clean execution, and a finished result
+        that stays easy to live with later.
+      </p>
+    </div>
+    <div class="footer-cta-actions">
+      <a
+        class="btn btn-primary"
+        href="/booking"
+        data-cta="booking"
+        data-cta-location="footer-hero"
+        >Request Scheduling</a
+      >
+      <a
+        class="btn btn-ghost"
+        href="tel:+16163347159"
+        data-cta="call"
+        data-cta-location="footer-hero"
+        >Call / Text</a
+      >
+    </div>
+  </div>
+  <div class="container footer-grid">
+    <div>
+      <h2 class="footer-title">Navigate</h2>
+      <ul class="footer-links">
+        <li><a href="/services">Services</a></li>
+<li><a href="/residential">Residential</a></li>
+<li><a href="/commercial">Commercial</a></li>
+<li><a href="/emergency">Emergency</a></li>
+<li><a href="/standards">Professional Standards</a></li>
+<li><a href="/reviews">Customer Reviews</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/case-studies">Case Studies</a></li>
+      </ul>
+      <p class="footer-note">
+        Premium electrical planning, installation, and repair for West Michigan
+        homes, remodels, builders, and light commercial spaces.
+      </p>
+    </div>
+    <div>
+      <h2 class="footer-title">Contact</h2>
+      <p>
+        <a
+          href="tel:+16163347159"
+          data-cta="call"
+          data-cta-location="footer"
+          >(616) 334-7159</a
+        >
+      </p>
+      <p><a href="mailto:info@toptier-electrical.com">info@toptier-electrical.com</a></p>
+      <p>Mon-Fri 8am-6pm · Sat 9am-1pm</p>
+      <p class="footer-note">MI License #6220430</p>
+    </div>
+    <div>
+      <h2 class="footer-title">Where we work</h2>
+      <p>Holland • Grand Rapids • Byron Center • Zeeland • Saugatuck • Hudsonville • Allegan</p>
+      <p><a href="/service-areas">Explore all service areas</a></p>
+      <p>
+        <a href="https://www.toptier-electrical.com/reviews" rel="noopener"
+          >Read customer reviews</a
+        >
+      </p>
+    </div>
+    <div>
+      <h2 class="footer-title">Best-fit work</h2>
+      <p>
+        Panel upgrades, EV charging, repairs, lighting, generators, remodel
+        support, and finish-conscious electrical work in occupied homes and
+        active properties.
+      </p>
+      <p class="footer-note">
+        Built around clear scope, practical recommendations, and workmanship
+        that stays serviceable later.
+      </p>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <small>© 2026 Top Tier Electrical. All rights reserved.</small>
+    <small>Serving West Michigan with premium electrical execution.</small>
+  </div>
+  <div class="sticky-cta" role="region" aria-label="Quick contact">
+    <a
+      class="sticky-btn"
+      href="tel:+16163347159"
+      data-cta="call"
+      data-cta-location="sticky"
+      >Call</a
+    >
+    <a
+      class="sticky-btn"
+      href="/booking"
+      data-cta="booking"
+      data-cta-location="sticky"
+      >Book</a
+    >
+  </div>
+</footer>
+ <script type="application/ld+json">{"@context":"https://schema.org","@type":"Electrician","name":"Top Tier Electrical","url":"https://toptier-electrical.com","telephone":"+16163347159","email":"info@toptier-electrical.com","logo":"https://toptier-electrical.com/Past_work_webp/TopTierElectrical_Logo_Web_600w.webp","image":"https://toptier-electrical.com/Past_work_webp/TopTierElectrical_OpenGraph_1200x630.webp","areaServed":["Holland, MI","Grand Rapids, MI","Byron Center, MI","Zeeland, MI","Saugatuck, MI","Hudsonville, MI","Allegan, MI"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Project Gallery | Top Tier Electrical","description":"Real project photography from Top Tier Electrical across West Michigan: panel upgrades, lighting, control work, EV charging, and finish-conscious electrical upgrades.","url":"https://toptier-electrical.com/gallery","primaryImageOfPage":"https://toptier-electrical.com/Past_work_webp/Exterior%20Light%20Fixtures.webp"}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://toptier-electrical.com/"},{"@type":"ListItem","position":2,"name":"Gallery","item":"https://toptier-electrical.com/gallery"}]}</script> 
+  </body>
+</html>
