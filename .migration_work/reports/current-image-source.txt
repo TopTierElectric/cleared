@@ -1,0 +1,1 @@
+No existing repo image folder detected; migration may need path remapping only

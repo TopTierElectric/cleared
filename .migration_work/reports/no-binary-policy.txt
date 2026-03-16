@@ -1,0 +1,2 @@
+Binary files will NOT be copied from the zip.
+Existing repo image folder must be reused as source of truth for image references.
