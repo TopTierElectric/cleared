@@ -1,0 +1,52 @@
+{
+  "htmlCount": 43,
+  "topLevelPages": [
+    "404.html",
+    "about/index.html",
+    "booking/index.html",
+    "code-corrections/index.html",
+    "commercial/index.html",
+    "contact/index.html",
+    "dedicated-circuits/index.html",
+    "electrical-repairs/index.html",
+    "electrician-allegan/index.html",
+    "electrician-grand-haven/index.html",
+    "electrician-grand-rapids/index.html",
+    "electrician-holland/index.html",
+    "electrician-muskegon/index.html",
+    "emergency/index.html",
+    "ev-chargers/index.html",
+    "faq/index.html",
+    "gallery/index.html",
+    "generators/index.html",
+    "index.html",
+    "lighting/index.html",
+    "panel-upgrades/index.html",
+    "residential/index.html",
+    "reviews/index.html",
+    "service-areas/index.html",
+    "services/index.html",
+    "standards/index.html",
+    "thank-you/index.html"
+  ],
+  "caseStudies": [
+    "case-studies/barn-modernization/index.html",
+    "case-studies/conduit-route-clean/index.html",
+    "case-studies/control-cabinet/index.html",
+    "case-studies/counter-bar-lighting/index.html",
+    "case-studies/ct-cabinet-service-upgrade/index.html",
+    "case-studies/gas-station-service-call/index.html",
+    "case-studies/index.html",
+    "case-studies/multi-panel-assembly-commercial/index.html",
+    "case-studies/panel-work-holland/index.html"
+  ],
+  "blogPosts": [
+    "blog/electrical-safety-tips/index.html",
+    "blog/ev-charger-installation-guide/index.html",
+    "blog/how-to-choose-right-electrician/index.html",
+    "blog/index.html",
+    "blog/signs-you-need-panel-upgrade/index.html",
+    "blog/whole-home-surge-protection/index.html",
+    "blog/winter-generator-readiness/index.html"
+  ]
+}

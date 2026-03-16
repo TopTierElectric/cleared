@@ -1,0 +1,171 @@
+You are an AI developer working inside the `TopTierElectric/astrowind` repository.
+
+Your task is to migrate the static site contained in `TopTierElectrical-deploy-ready-dist-enhanced.zip` into the AstroWind codebase while preserving content, structure, metadata, redirects, and assets.
+
+CRITICAL IMAGE AND FILE RULES
+- Use the CURRENT EXISTING image folder already present in the repository as the source of truth.
+- Do not copy, generate, re-encode, download, or commit binary image files from the zip.
+- Do not add new `.webp`, `.png`, `.jpg`, `.jpeg`, `.avif`, `.gif`, `.ico`, `.pdf`, `.woff`, `.woff2`, `.ttf`, `.mp4`, `.mov`, `.zip`, or other binary assets.
+- Only migrate text/code/config/content files.
+- Remap old HTML image references to the existing image paths already in the repo.
+- If an image from the old site does not already exist in the repo image folder, preserve the page/content structure and clearly flag that image as unresolved in the migration notes instead of adding the binary file.
+
+Follow these rules exactly:
+
+MISSION
+- Preserve all public-facing content and SEO value from the static distribution.
+- Modernize implementation into Astro/AstroWind conventions.
+- Do not omit assets, pages, redirects, headers, metadata, or images references.
+- Prefer migration fidelity first, refactor second.
+- Reuse current repo image assets instead of introducing binary files.
+
+PRIMARY GOALS
+1. Extract and inventory the static site.
+2. Recreate page structure in Astro.
+3. Preserve redirects and headers.
+4. Preserve metadata and canonical URLs.
+5. Migrate blog posts into Markdown/MDX.
+6. Migrate case studies into routed Astro content.
+7. Repoint image references to the current existing repo image folder.
+8. Ensure the site builds and previews successfully without adding binary files.
+
+BUILD STRATEGY
+- Use Astro static-first rendering.
+- Keep existing CSS initially for parity.
+- Reuse AstroWind layout conventions where possible.
+- Favor componentization for repeated sections.
+- If assumptions are needed, preserve visual/content fidelity over aggressive redesign.
+- Never solve missing asset issues by adding binary files.
+
+STEP 1 — UNZIP AND ANALYZE THE STATIC DIST
+- Extract `TopTierElectrical-deploy-ready-dist-enhanced.zip`.
+- Inventory:
+  - all HTML files
+  - `_redirects`
+  - `_headers`
+  - `assets/css/styles.css`
+  - `assets/js/site.js`
+  - `assets/images/logo.svg`
+  - all image references under `Past_work_webp/`
+- Produce an internal migration map:
+  - homepage
+  - case studies
+  - blog posts
+  - shared assets
+  - navigation/footer patterns
+  - metadata sources
+- Identify canonical paths and status codes defined in `_redirects`.
+
+STEP 2 — DETECT CURRENT REPO IMAGE SOURCE
+- Detect the current existing image folder already present in the repo.
+- Treat that folder as the only allowed image source.
+- Build a mapping table from old image paths to current repo image paths.
+- Reuse current `.webp` style files where available.
+- Do not add binary files from the zip.
+
+STEP 3 — PREPARE THE ASTROWIND REPO
+- Work on branch `toptier-migration`.
+- Install dependencies as needed.
+- Ensure Astro builds before migration begins.
+- Configure `astro.config.mjs`:
+  - `site: 'https://toptier-electrical.com'`
+  - set appropriate integrations already aligned with AstroWind
+- Do not break existing AstroWind features.
+
+STEP 4 — CREATE THE PAGE AND CONTENT ARCHITECTURE
+- Convert `index.html` into `src/pages/index.astro`.
+- Split repeated homepage sections into `src/components/toptier/`.
+- Create:
+  - `src/pages/case-studies/index.astro`
+  - `src/pages/case-studies/[slug].astro`
+  - `src/pages/blog/index.astro`
+  - `src/pages/blog/[slug].astro`
+- Prefer content collections or MDX for blog and case-study content where appropriate.
+
+STEP 5 — MIGRATE CASE STUDIES
+- For each `case-studies/*/index.html` file:
+  - extract title, description, body content, images, and metadata
+  - create a corresponding content entry
+  - ensure slug matches the original URL path
+  - remap all image references to the current repo image source
+- Preserve headings, copy, and image order.
+
+STEP 6 — MIGRATE BLOG POSTS
+- For each post in `blog/`:
+  - extract title from `<title>`
+  - extract description from meta tags
+  - extract publish date if present
+  - convert the page body into Markdown or MDX
+  - create a file under content/blog or pages/blog
+- Preserve canonical URLs and slug structure.
+
+STEP 7 — MIGRATE ONLY NON-BINARY ASSETS
+- Keep `public/js/site.js` initially unless behavior is trivial to replace safely with Astro-native code.
+- Keep `src/styles/legacy.css` imported globally for first-pass fidelity.
+- Preserve `logo.svg`, `_redirects`, and `_headers`.
+- Do not add binary assets.
+
+STEP 8 — REDIRECTS AND HEADERS
+- Preserve `_redirects` in the output/public-facing path.
+- Preserve `_headers` in the output/public-facing path.
+- If platform-specific translation is needed, keep the original files and document any secondary config changes.
+- Do not lose canonical redirect behavior, trailing slash behavior, or status codes.
+
+STEP 9 — METADATA AND SEO
+- For every page:
+  - set title
+  - set description
+  - set canonical
+  - set OG tags where possible
+- Ensure homepage title aligns with original site intent:
+  - `Electrician in West Michigan | Top Tier Electrical`
+- Preserve or improve metadata fidelity without inventing page meaning.
+
+STEP 10 — VALIDATION
+Run:
+- build
+- preview
+- internal link validation
+- missing asset validation
+- metadata validation
+- route coverage validation
+
+Confirm:
+- all original major pages exist
+- all current repo-backed image references resolve
+- blog pages render
+- case-study pages render
+- titles/descriptions exist
+- redirects and headers are still present
+- no new binary files were added
+
+STEP 11 — COMMIT AND PR
+- Commit with a detailed migration message.
+- Push branch `toptier-migration`.
+- Open a PR with:
+  - migration summary
+  - page coverage summary
+  - asset reference remapping summary
+  - unresolved image reference list
+  - redirect/header preservation summary
+  - remaining cleanup/refactor opportunities
+
+NON-NEGOTIABLE RULES
+- Do not omit content.
+- Do not silently rename paths if that breaks existing URLs.
+- Do not replace content with placeholder text.
+- Do not discard metadata.
+- Do not redesign the site before parity is achieved.
+- Do not add binary files.
+- Use current repo image files only.
+
+SUCCESS DEFINITION
+The migration is successful only when:
+- the AstroWind project builds
+- the migrated site previews correctly
+- all core pages are represented
+- redirects and headers are preserved
+- current repo image references are used
+- no binary files were added
+- metadata is preserved
+- the result is cleaner and more maintainable than the static dist without losing original SEO or content fidelity.
